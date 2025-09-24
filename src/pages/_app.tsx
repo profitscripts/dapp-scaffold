@@ -13,7 +13,7 @@ const App: FC<AppProps> = ({ Component, pageProps }) => {
     return (
         <>
           <Head>
-            <title>Solana Scaffold Lite</title>
+            <title>Aiprice AI - Intelligent Solana Portfolio Analytics</title>
           </Head>
 
           <ContextProvider>
