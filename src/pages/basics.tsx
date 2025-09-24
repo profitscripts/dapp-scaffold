@@ -6,7 +6,7 @@ const Basics: NextPage = (props) => {
   return (
     <div>
       <Head>
-        <title>Solana Scaffold</title>
+        <title>Aiprice AI - Intelligent Solana Portfolio Analytics</title>
         <meta
           name="description"
           content="Basic Functionality"
